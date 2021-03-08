@@ -68,7 +68,8 @@ class ThickThinTime extends Ui.Drawable {
 		var amPmText = formattedTime[:amPm];
 
 		var halfDCWidth = dc.getWidth() / 2;
-		var halfDCHeight = (dc.getHeight() / 2) + mAdjustY;
+		// var halfDCHeight = (dc.getHeight() / 2) + mAdjustY;
+		var halfDCHeight = 45;
 
 		// Centre combined hours and minutes text (not the same as right-aligning hours and left-aligning minutes).
 		// Font has tabular figures (monospaced numbers) even across different weights, so does not matter which of hours or
