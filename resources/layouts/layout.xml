@@ -27,8 +27,8 @@
 		</drawable>
 
 		<drawable id="DataFields" class="DataFields">
-			<param name="left">80</param>
-			<param name="right">160</param>
+			<param name="left">70</param>
+			<param name="right">170</param>
 			<param name="top">95</param>
 			<param name="bottom">116</param>
 			<param name="batteryWidth">28</param>
